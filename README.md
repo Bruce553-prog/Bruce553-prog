@@ -1,37 +1,30 @@
 <h1 align="center">Hi 👋, I'm Bruce</h1>
-<h3 align="center">Aspiring Backend Developer | Learning Python @ ALX</h3>
+<h3 align="center">Junior Django Developer | Learning Python @ ALX</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently learning **Python programming** through **ALX Backend Development**
-- 💡 I started software engineering because I love coding and solving problems
-- 🚀 I'm interested in becoming a **backend developer** and learning how systems work behind the scenes
-- 🌱 Right now, I'm focusing on understanding **Python basics**, **logic**, and **building simple programs**
+- 🎓 I'm currently learning **Backend Development with Python and Django** through **ALX**
+- 💡 I started software engineering because I love building and solving real-world problems with code
+- 🚀 I'm passionate about **backend systems**, **APIs**, and how everything works behind the scenes
+- 🌱 Right now, I'm focusing on learning **Django**, improving my **Python skills**, and understanding **backend logic**
 
 ---
 
 ### 🛠 What I'm Learning
 
-- ✅ Python (syntax, variables, loops, functions)
-- ✅ Git and GitHub (version control basics)
-- ✅ How to use the terminal/command line
-- 🔜 I want to explore: APIs, databases, and web backends
-
----
-
-### 📁 Practice Repositories
-
-> Just a few things I’m working on as I learn:
-
-- **Python Basics** — simple Python programs like calculators, text games, etc.
+- ✅ **Python** (syntax, loops, functions, and best practices)
+- ✅ **Django Framework** (building backend logic and web apps)
+- ✅ **Git & GitHub** (version control and collaboration)
+- ✅ **Command Line** (navigating and managing projects)
+- 🔜 Excited to explore **Django REST Framework** and **API development**
 
 ---
 
 ### 📫 Connect With Me
 
-- Email: brucewyllis01@gmail.com
+- Email: **brucewyllis01@gmail.com**
 
 ---
 
