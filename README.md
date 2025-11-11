@@ -17,7 +17,7 @@
 - ✅ **Django Framework** (building backend logic and web apps)
 - ✅ **Git & GitHub** (version control and collaboration)
 - ✅ **Command Line** (navigating and managing projects)
-- 🔜 Excited to explore **Django REST Framework** and **API development**
+- Excited to explore **Django REST Framework** and **API development**
 
 ---
 
