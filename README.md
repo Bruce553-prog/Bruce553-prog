@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruce</h1>
-<h3 align="center">Junior Django Developer | Learning Python @ ALX</h3>
+<h3 align="center">Junior Django Developer</h3>
 
 ---
 
