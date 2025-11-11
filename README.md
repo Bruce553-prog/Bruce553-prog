@@ -14,7 +14,6 @@
 
 ### 🛠 What I'm Learning
 
-- ✅ **Python** (syntax, loops, functions, and best practices)
 - ✅ **Django Framework** (building backend logic and web apps)
 - ✅ **Git & GitHub** (version control and collaboration)
 - ✅ **Command Line** (navigating and managing projects)
