@@ -29,5 +29,5 @@
 
 ### 💬 My Learning Motto
 
-> “Start small. Stay consistent. Grow every day.”
+> Start small. Stay consistent. Grow every day.
 
